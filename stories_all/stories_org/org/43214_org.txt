@@ -1,0 +1,5 @@
+bubbles are seen at the bottom of the glass .
+the tea pot is dark brown and light brown .
+the tea pot and glass with bubbles are next to each other .
+the glass <unk> .
+the glass <unk> and lays on the table .

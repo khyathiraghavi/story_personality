@@ -1,0 +1,5 @@
+the presentation started with a bang .
+the troop really impressed the crowd .
+all the kids had a chance to present .
+some kids presented <unk> .
+fun was had by all .

@@ -1,0 +1,5 @@
+[ male ] walked over to [ female ] 's place to visit .
+they sat around for awhile before deciding to go take some pictures outside .
+[ male ] took one picture and [ female ] reminded him to put the <unk> lens on the camera .
+[ male ] took his first picture and forgot to put the filter on .
+the next picture he took with the filter turned out much better .

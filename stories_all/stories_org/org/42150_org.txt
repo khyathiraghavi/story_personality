@@ -1,0 +1,5 @@
+there was a rowing competition ,
+that [ female ] was excited to participate in .
+she faced fierce competitors despite training all year .
+however , the boat in the lead had a <unk> .
+which allowed [ female ] to row into victory .

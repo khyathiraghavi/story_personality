@@ -1,0 +1,5 @@
+received a package in the mail .
+she received a birthday present .
+excited to open it .
+it is an <unk> .
+setting it up with her <unk> .

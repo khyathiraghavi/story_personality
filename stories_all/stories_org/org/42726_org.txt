@@ -1,0 +1,5 @@
+a group of students went to a class to get trained on how to shoot a gun .
+they were excited to learn how to properly hold a gun .
+they learned how to fill the gun with <unk> as well .
+they were then able to practice shooting .
+they were able to keep their <unk> as a <unk> .

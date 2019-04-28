@@ -1,0 +1,5 @@
+the singer of the band sits and <unk> his <unk>
+the guitarist practices his solo .
+the singer sings the song he just wrote for the first time .
+the other guitarist takes a break while the others practice the new song .
+the singer is <unk> because something is missing from the song .

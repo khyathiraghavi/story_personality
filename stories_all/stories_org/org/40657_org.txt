@@ -1,0 +1,5 @@
+we bought an old house .
+it needed a lot of work .
+the walls were <unk> .
+the paint was <unk> off .
+there were bugs coming in ?

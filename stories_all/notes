@@ -1,0 +1,10 @@
+stories_org: ground truth
+stories1: baseline model
+stories2: binary encoding of personality
+stories3: x ++ P (context)
+stories4: x - S + P (context)
+stories5: x - S + P (decoding time step)
+stories6: x ++ P (decoding time step)
+
+
+

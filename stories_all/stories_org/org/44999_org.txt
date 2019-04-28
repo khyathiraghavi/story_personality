@@ -1,0 +1,5 @@
+a crowd is gathered around the street to watch a small parade .
+towards the middle of the parade are a group of bicyclists .
+their bicycles look different than an <unk> bike .
+some of them look normal but others are taller and longer than what you would expect .
+leading up the end of the parade is a <unk> from a train with people on it .

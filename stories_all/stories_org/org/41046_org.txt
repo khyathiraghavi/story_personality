@@ -1,0 +1,5 @@
+a customer comes into the store to get some food .
+the waitress , after putting in the order , <unk> gets the food for the customer .
+she also gets some drinks because the customer is very thirsty .
+the customer sits down to have a meal with their companion .
+the customer is still thirsty so the waitress gets another drink .

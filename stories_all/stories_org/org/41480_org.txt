@@ -1,0 +1,5 @@
+the bakery had a selection of pastries .
+some items were shaped into figures .
+there 's always freshly baked items for sale daily .
+the <unk> come in early every morning .
+the sign is <unk> even on a dimly lit street .

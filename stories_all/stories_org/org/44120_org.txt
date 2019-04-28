@@ -1,0 +1,5 @@
+it is a rainy and <unk> day . the car begins to operate slowly .
+we pull over to investigate . this is not good .
+it appears that there was a collision . lots of things are on the front of the car .
+the tire looks bad . we must have hit something big .
+the tire seems like it is <unk> . this day is not very fun .

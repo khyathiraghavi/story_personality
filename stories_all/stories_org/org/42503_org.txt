@@ -1,0 +1,5 @@
+people are running for the race .
+the man is carrying his child on shoulder and running in the race .
+the grandpa is running with his <unk> in the race .
+the man is holding umbrella and running in the race .
+first 3 <unk> got the awards .

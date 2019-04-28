@@ -1,0 +1,5 @@
+meet [ male ] and [ male ] .
+[ male ] is <unk> and has a great personality .
+[ male ] loves sports and the arts .
+they have dog named <unk> who they love dearly .
+<unk> had puppies and now [ male ] and [ male ] take care of the puppies every day .

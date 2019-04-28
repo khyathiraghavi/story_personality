@@ -1,0 +1,5 @@
+[ female ] and <unk> are sitting together .
+[ male ] is checking out some live music .
+[ male ] meets up with his friend [ female ] .
+then they see [ male ] their other friend checking out some live music too .
+they ask their friend <unk> to pose for a picture .

@@ -1,0 +1,5 @@
+this glass is dirty and needs to be washed .
+it has broken , luckily it is still intact .
+the glass has <unk> , at least it is still mostly in one piece .
+now the glass has broken all over the place !
+somebody is going to have to clean up this huge mess !

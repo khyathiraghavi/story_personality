@@ -1,0 +1,5 @@
+the cat was playful on the carpet .
+the couple were tail <unk> before the game .
+the deep fried candy bars stand .
+the lady was <unk> on a corn dog .
+the man was in love with the deep fried dessert .

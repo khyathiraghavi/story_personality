@@ -1,0 +1,5 @@
+it was rainy when [ female ] started her trip .
+she drove for hours and passed some <unk> roads .
+the sky continued to <unk> .
+all of the trees that she passed were bare .
+the park was dark and snow covered ; [ female ] thought that it was beautiful .

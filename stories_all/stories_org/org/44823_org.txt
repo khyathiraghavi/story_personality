@@ -1,0 +1,5 @@
+first , meg mixed the spices .
+next , she chopped the garlic .
+she then <unk> the beans .
+she took her homemade sauce and put it over the meat .
+the results was a delicious meal !

@@ -1,0 +1,5 @@
+[ female ] 's favorite cafe is french .
+they have a great drink menu filled with different types of <unk> and <unk> ,
+but best of all , they have great breakfast foods that you can mix with lunch sandwiches !
+the outside of the building has fancy french architecture ,
+and the inside definitely <unk> the outside . she loves feeling like she 's in a foreign country when she goes to this cafe .

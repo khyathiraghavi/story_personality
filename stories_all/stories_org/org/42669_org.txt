@@ -1,0 +1,5 @@
+we tried a different restaurant tonight !
+we were served a coffee with a <unk> on top .
+the decor in the restaurant was a <unk> odd .
+afterwards , we had to walk to the train station .
+we had just missed the train , so we had to wait for the next one to arrive .

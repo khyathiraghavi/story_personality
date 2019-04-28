@@ -1,0 +1,5 @@
+this is a picture of a telephone pole .
+this is a drawing of a girl .
+this is a picture of a sign for the area .
+this sign says `` <unk> `` on the ground .
+the letter on the ground is `` <unk> `` .

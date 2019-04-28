@@ -1,0 +1,5 @@
+this house is for sale .
+the landscaping on this house well put together .
+the house has a lot of curb appeal .
+the owners want to sell the house for $ <unk> .
+they hope it sells soon .

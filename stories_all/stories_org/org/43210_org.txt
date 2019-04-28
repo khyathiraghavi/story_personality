@@ -1,0 +1,5 @@
+the wine glass needs washed .
+the tea kettle needs washed .
+i will wash them together . what is the worst that might happen ?
+oops , wine glasses are <unk> .
+<unk> it ! time for some new glasses .

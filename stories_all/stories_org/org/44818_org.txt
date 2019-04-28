@@ -1,0 +1,5 @@
+the band is playing for the president .
+food is <unk> out .
+the president makes a speech .
+people <unk> after the speech .
+these people were glad to see the president .

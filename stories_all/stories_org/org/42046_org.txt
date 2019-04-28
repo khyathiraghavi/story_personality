@@ -1,0 +1,5 @@
+our dog loves our <unk> .
+he loved the walk on the beach .
+this part was a bit <unk> for him , but he <unk> .
+he enjoyed taking a break here .
+we both enjoyed the view .

@@ -1,0 +1,5 @@
+different type of foods are in a bowl .
+another type of food in a bowl .
+some type of beans inside the bowl .
+some food <unk> inside a pan with sauce on top .
+the sauce poured on type of the food that was in the pain .

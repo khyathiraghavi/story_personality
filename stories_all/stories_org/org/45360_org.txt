@@ -1,0 +1,5 @@
+i have a friend named [ male ] .
+[ male ] has his <unk> that lives in location .
+[ male ] 's dad is a cook .
+he loves to bake cookies .
+this is his <unk> .

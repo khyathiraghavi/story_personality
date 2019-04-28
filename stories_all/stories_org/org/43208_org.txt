@@ -1,0 +1,5 @@
+we visited a coastal town in location .
+we stopped at a local restaurant for some traditional fish and chips .
+next , we bought some salt water <unk> at location .
+we sat by the <unk> and watched the fishing boats .
+then we took a walk on the boardwalk .

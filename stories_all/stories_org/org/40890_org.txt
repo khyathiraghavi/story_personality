@@ -1,0 +1,5 @@
+the man took his dog to the park on a sunny day .
+the dog ran fast to <unk> the stick .
+the man decided to play <unk> with his dog .
+the dog was tired by the time it found the stick .
+a small brown rabbit stared at the dog .

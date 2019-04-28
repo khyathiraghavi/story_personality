@@ -1,0 +1,5 @@
+we went to a fancy chinese restaurant .
+<unk> duck to start off the course .
+shrimp in garlic sauce .
+hot and spicy beef .
+soup with <unk> beans .

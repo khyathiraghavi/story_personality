@@ -1,0 +1,5 @@
+this is my dad , he is on the way to the location . medical center
+he needs to exchange this medical device because it broke .
+here he is , about to arrive .
+he has a <unk> tag . thank goodness for that , he would never be able to find a spot without one !
+he finally <unk> home . he said everything worked out good and the <unk> will be here in a week !

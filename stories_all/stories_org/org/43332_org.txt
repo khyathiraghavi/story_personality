@@ -1,0 +1,5 @@
+the musicians went over the set list before the concert started .
+the lead <unk> performed well during the first song .
+the rhythm section of the band played well .
+the lead singer stopped singing to address the crowd for a brief moment .
+the music <unk> with a guitar solo .

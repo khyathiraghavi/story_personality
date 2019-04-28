@@ -1,0 +1,5 @@
+this car was involved in a <unk> collision .
+luckily enough the <unk> <unk> .
+the driver of this car was safe .
+after the <unk> collision another car <unk> into the back of this car .
+overall , it was an <unk> situation but it could have been much worse .

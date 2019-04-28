@@ -1,0 +1,5 @@
+big [ male ] is a large monument .
+<unk> see big [ male ] every day .
+the birds sometimes perch on the large monument .
+there are a lot of statues surrounding big [ male ]
+all <unk> love looking at big [ male ] .
